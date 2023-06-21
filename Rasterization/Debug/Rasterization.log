@@ -1,0 +1,38 @@
+﻿  main.cpp
+C:\Users\hangsun\source\repos\Rasterization\Rasterization\tgaimage.h(60,54): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+C:\Users\hangsun\source\repos\Rasterization\Rasterization\main.cpp(69,1): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\hangsun\source\repos\Rasterization\Rasterization\main.cpp(70,1): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\hangsun\source\repos\Rasterization\Rasterization\main.cpp(71,1): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\hangsun\source\repos\Rasterization\Rasterization\main.cpp(72,1): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\hangsun\source\repos\Rasterization\Rasterization\main.cpp(121,66): warning C4244: “参数”: 从“double”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\hangsun\source\repos\Rasterization\Rasterization\main.cpp(121,63): warning C4244: “=”: 从“const _Ty”转换到“unsigned char”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+  our_gl.cpp
+C:\Users\hangsun\source\repos\Rasterization\Rasterization\tgaimage.h(60,54): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+C:\Users\hangsun\source\repos\Rasterization\Rasterization\our_gl.cpp(91,21): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\hangsun\source\repos\Rasterization\Rasterization\our_gl.cpp(92,25): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+  正在生成代码...
+  Rasterization.vcxproj -> C:\Users\hangsun\source\repos\Rasterization\Debug\Rasterization.exe
